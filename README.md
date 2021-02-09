@@ -1,1 +1,2 @@
 # tiancai
+print("hello")
